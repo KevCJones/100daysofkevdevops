@@ -16,3 +16,8 @@ I want to move into a solutions architect direction with my career, on the way t
 ## Every day is a school day
 
 I've been in software development professionally 16 years now, i've worn a lot of hats. There is more out there than is possible for one person to learn properly many factors over - at least i've never met someone who'd even claim it. The important thing from my POV is the foster a growth mindset, and embrace the unknown as a chance to grow and find out something intereestint. If you sign yourself off and box yourself in - then your future is a small dark corner of a vast world of interesting stuff. 
+
+## Articles
+
+- [Day 0 - Every journey needs a little preparation](https://codebykev.medium.com/100-days-of-devops-day-0-6e4f160e342f)
+- [Day 1 - Simple Storage Service (S3) — Part 1](https://codebykev.medium.com/100-days-of-devops-day-1-87cf192cbfd1)
