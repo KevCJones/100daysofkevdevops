@@ -21,3 +21,4 @@ I've been in software development professionally 16 years now, i've worn a lot o
 
 - [Day 0 - Every journey needs a little preparation](https://codebykev.medium.com/100-days-of-devops-day-0-6e4f160e342f)
 - [Day 1 - Simple Storage Service (S3) — Part 1](https://codebykev.medium.com/100-days-of-devops-day-1-87cf192cbfd1)
+- [Day 1 - Simple Storage Service (S3) — Part 2](https://codebykev.medium.com/100-days-of-devops-day-2-bac3dd0eeadc)
